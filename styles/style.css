@@ -427,6 +427,9 @@ a:link {
   .skills{
     margin-top: 50px;
   }
+  #projects{
+    margin-top: 50px;
+  }
 }
 @media screen and (min-width:426px) and (max-width:567px) {
   .c1,.c2,.c3,.c4{
