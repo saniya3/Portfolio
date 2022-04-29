@@ -386,7 +386,7 @@ a:link {
     font-size: 13px;
   }
   .header img {
-    width: 30%;
+    width: 100px;
   }
   .h1img{
     width: 100px;
@@ -423,6 +423,9 @@ a:link {
   }
   .head1,.head2{
     font-size: 16px;
+  }
+  .skills{
+    margin-top: 50px;
   }
 }
 @media screen and (min-width:426px) and (max-width:567px) {
